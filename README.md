@@ -3,6 +3,7 @@
 
 ## วิธีการใช้งาน | How to use
 TH: ให้ลากไฟล์ .ttf เข้าไปใส่ที่ generate_font.bat ได้เลย เมื่อเสร็จแล้วไฟล์ .png และ .json จะอยู่ในโฟลเดอร์ font_fix
+
 EN: Just drag the .ttf file into generate_font.bat. Once finished, the .png and .json files will be in the font_fix folder.
 ![วิธีทำ](./howto.gif)
 
