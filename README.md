@@ -1,6 +1,8 @@
 # Hytale Font Fix
 ใช้แก้ฟอนต์ของเกม Hytale
 
+![รูปตัวอย่าง](./screenshot.jpg)
+
 ## วิธีการใช้งาน | How to use
 TH: ให้ลากไฟล์ .ttf เข้าไปใส่ที่ generate_font.bat ได้เลย เมื่อเสร็จแล้วไฟล์ .png และ .json จะอยู่ในโฟลเดอร์ font_fix
 
